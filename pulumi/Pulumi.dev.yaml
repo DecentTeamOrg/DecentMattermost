@@ -1,0 +1,3 @@
+config:
+  azure:location: eastus
+  azure-native:location: East US
